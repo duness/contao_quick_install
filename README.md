@@ -15,6 +15,12 @@ directory
 ```
 Given that your SSH access is pointing on root /, you need to specify where contao should be installing. Usually it's the directory of the website like `mywebsite`, or `abc.de`
 
+
+```
+host
+```
+Type in your SSH host. 
+
 ```
 user
 ```

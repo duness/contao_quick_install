@@ -4,8 +4,8 @@ Feel free to costumize this script.
 
 ## Inputs and syntax
 
-'''
+```
 contao_version
-'''
+```
 
 Usually strings like 4.5, 3.4.5 or 4.5.*

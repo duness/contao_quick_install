@@ -9,6 +9,12 @@ This is a compact ruby command line script which installs Contao 4 and the follo
 
 Feel free to costumize this script.
 
+# Troubleshooting
+If the script is not working, check the followings:
+
+- Check the variable `path_to_php`. It must direct to the PHP of the server
+
+
 ## Inputs and syntax
 
 ```

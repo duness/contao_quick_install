@@ -1,5 +1,9 @@
 # contao_quick_install
-This is a compact ruby command line script which installs Contao and the most used rocksolid plugins in a quick way.
+This is a compact ruby command line script which installs Contao 4 and the following rocksolid plugins:
+1. madeyourday/contao-rocksolid-columns 
+2. madeyourday/contao-rocksolid-custom-elements
+3. madeyourday/contao-rocksolid-slider
+4. madeyourday/contao-rocksolid-frontend-helper
 Feel free to costumize this script.
 
 ## Inputs and syntax
